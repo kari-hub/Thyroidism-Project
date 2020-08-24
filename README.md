@@ -1,4 +1,4 @@
-# Thyroidism-Project
+# Hypothyroidism-Project
 ## Overview 
 
 Nairobi Hospital conducted a clinical camp to test for hypothyroidism. The data collected focused on Thyroid patients. Use the healthcare datasets provided to accomplish the following:  
