@@ -65,6 +65,21 @@ The dataset contains the following columns that describe the patients' character
     - To train the decision tree models, run `decision_trees.py`.
     - To implement the SVM model, run `svm_model.py`.
 
+## Contributing
+
+Contributions are welcome! If you'd like to improve this project, feel free to fork the repository, create a new branch, and submit a pull request.
+
+### How to contribute:
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-name`)
+3. Commit your changes (`git commit -m 'Add new feature'`)
+4. Push to the branch (`git push origin feature-name`)
+5. Submit a pull request
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## Conclusion
 
-This project applies machine learning models to predict hypothyroidism from various medical features, exploring various machine learning techniques including ensemble decision trees and Support Vector Machines. The goal is to create an effective predictive model that could assist in diagnosing hypothyroidism based on patient data.
+This project applies machine learning models to predict hypothyroidism from a range of medical features, exploring various machine learning techniques including ensemble decision trees and Support Vector Machines. The goal is to create an effective predictive model that could assist in diagnosing hypothyroidism based on patient data.
