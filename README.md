@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes data collected by Nairobi Hospital during a clinical camp focused on hypothyroidism testing. The dataset includes information on thyroid patients and aims to build a machine learning model that predicts whether a patient’s symptoms indicate hypothyroidism.
+This project analyzes data collected by Nairobi Hospital during a clinical camp focused on hypothyroidism testing. The dataset includes information on thyroid patients and aims to build a machine-learning model that predicts whether a patient’s symptoms indicate hypothyroidism.
 
 The objective is to apply various machine learning models and techniques to determine if the patient has hypothyroidism based on their medical data.
 
@@ -79,7 +79,3 @@ Contributions are welcome! If you'd like to improve this project, feel free to f
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Conclusion
-
-This project applies machine learning models to predict hypothyroidism from a range of medical features, exploring various machine learning techniques including ensemble decision trees and Support Vector Machines. The goal is to create an effective predictive model that could assist in diagnosing hypothyroidism based on patient data.
